@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/producto_banner
+/producto_banner_inicio
+/metodos_de_pago
+/colores_producto
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+tienda_admin.zip
